@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" >
+        <link rel="icon" type="image/png" href="../images/favicon-16x16.png"/>
+        <link rel="stylesheet"  href="../css/style.css">
+        <title>E-Sanatate</TITLE>
+            <meta name="viewport" content="width=devide-width, initial-scale=1.0"/>
+ 
+    </head>
+
+    <body>
+        <header>
+            <img class="header-logo" src="../images/catragereadefonduripentrusanatat-1466696582.jpg"alt="Logoul siteului"/>
+            <a href="../imdex.html" >Pagina principala</a>
+            <a href="">Sanatatea fizica</a>
+            <a href="">Sanatatea mentala</a>
+            <a href="" class="active">Contacte</a>
+        </header>
+
+
+        <div class="container">
+            <br />
+
+                <div class="row">
+                    <div class="form">
+                    <h3 class="centered">Contacteaza-ma</h3>
+                    <hr>
+
+                    <form>
+                        <label for="nume">Numele:</label><br/>
+                        <input type=" text" name="nume" id="nume"/>
+
+                        <label for="email">Email</label>
+                    </form>
+                </div>
+            </div>
+        </div>
+            </body>
+            </html>
